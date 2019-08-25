@@ -1,0 +1,5 @@
+{
+  "babel-plugin-root-import": "^6.4.1",
+  "babel-plugin-transform-remove-console": "^6.9.4",
+  "eslint": "^6.2.2"
+}
